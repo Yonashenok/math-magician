@@ -1,0 +1,13 @@
+.container {
+  width: 40rem;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  justify-content: center;
+  align-items: center;
+  gap: 0.1rem;
+}
+
+.btnAt0 {
+  padding: 1.5rem 8rem;
+  grid-column: 1/3;
+}
