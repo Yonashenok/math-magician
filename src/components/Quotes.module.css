@@ -1,0 +1,30 @@
+.quoteContainer {
+  padding-left: 3rem;
+  height: 35rem;
+}
+
+.quoteText {
+  width: 50rem;
+  text-align: left;
+  font-size: 1.8rem;
+  font-weight: 600;
+}
+
+.loading {
+  font-size: 1.6rem;
+  font-weight: 600;
+}
+
+.quoteHeader {
+  font-size: 1.8rem;
+  font-weight: 700;
+}
+
+.error {
+  text-align: center;
+  width: 30rem;
+  height: 30rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  color: red;
+}
