@@ -1,8 +1,9 @@
 import React from 'react';
 import classes from './KeyPad.module.css';
 import Button from '../UI/Button';
+/* eslint-disable react/prop-types */
 
-const KeyPad = () => {
+const KeyPad = ({ onButton }) => {
   const btnTypes = [
     {
       id: 1,
@@ -81,7 +82,9 @@ const KeyPad = () => {
       key: '=',
     },
   ];
-  const submitHandler = () => {};
+  const submitHandler = (e) => {
+    onButton(e.target.textContent);
+  };
 
   return (
     <div className={classes.container}>

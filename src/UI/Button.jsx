@@ -5,6 +5,7 @@ import classes from './Button.module.css';
 const Button = ({ className, onClick, children }) => {
   const selected = ['+', 'x', '-', '÷', '='];
   const classesBg = selected.includes(children) ? classes.btnBg : classes.btn;
+
   return (
     <button
       type="button"
