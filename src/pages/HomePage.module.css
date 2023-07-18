@@ -1,0 +1,19 @@
+.homeText {
+  font-size: 2.4rem;
+  font-weight: 400;
+  width: 140rem;
+}
+
+.header {
+  font-size: 3.2rem;
+  font-weight: 700;
+}
+
+.homePageContainer {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  padding: 4rem 10rem;
+}

@@ -1,0 +1,8 @@
+.quotePageContainer {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: start;
+  gap: 10rem;
+  padding: 10rem 0;
+}
