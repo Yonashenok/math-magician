@@ -1,0 +1,13 @@
+.CalcPageContainer {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: start;
+  gap: 10rem;
+  padding: 10rem 0;
+}
+
+.header {
+  font-size: 3.2rem;
+  font-weight: 700;
+}
