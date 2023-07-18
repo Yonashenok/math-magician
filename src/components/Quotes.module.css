@@ -4,10 +4,10 @@
 }
 
 .quoteText {
-  width: 50rem;
+  width: 120rem;
   text-align: left;
-  font-size: 1.8rem;
-  font-weight: 600;
+  font-size: 2.4rem;
+  font-weight: 500;
 }
 
 .loading {
@@ -16,7 +16,7 @@
 }
 
 .quoteHeader {
-  font-size: 1.8rem;
+  font-size: 3.2rem;
   font-weight: 700;
 }
 
