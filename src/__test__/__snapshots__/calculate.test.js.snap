@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test calculate should return  "total : 0" in the object when  buttonName "=" and  subtraction operation is pressed 1`] = `
+Object {
+  "next": null,
+  "operation": null,
+  "total": "0",
+}
+`;
+
+exports[`test calculate should return  "total : 2" in the object when  buttonName "=" and  add operation is pressed 1`] = `
+Object {
+  "next": null,
+  "operation": null,
+  "total": "2",
+}
+`;
+
+exports[`test calculate should return  empty object when  buttonName "=" and no operation is pressed 1`] = `Object {}`;
+
+exports[`test calculate should return  empty object when obj.next = 0 and buttonName = 0 is pressed 1`] = `Object {}`;
+
+exports[`test calculate should return  the object it self when obj.next contain "."and buttonName = "." is pressed 1`] = `
+Object {
+  "next": "0.156",
+  "operation": null,
+  "total": null,
+}
+`;
+
+exports[`test calculate should return null value for the object when "AC" button is pressed 1`] = `
+Object {
+  "next": null,
+  "operation": null,
+  "total": null,
+}
+`;
