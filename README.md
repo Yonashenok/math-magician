@@ -139,7 +139,7 @@ To run tests on linters, run the following command:
 To run test coverages, run the following command:
 
 ```sh
-  npm test
+  npm test a
 ```
 
 ### Deployment
