@@ -1,0 +1,13 @@
+.inputForm {
+  width: 39rem;
+  height: 5rem;
+  background-color: #918a8a;
+  border: 3px solid #777;
+  margin-bottom: 0.2rem;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  padding-right: 0.5rem;
+}

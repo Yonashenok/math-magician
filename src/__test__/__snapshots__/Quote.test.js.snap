@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test Calculator component renders correctly 1`] = `
+<div
+  className="quoteContainer"
+>
+  <h2
+    className="quoteHeader"
+  >
+    Fact of the Day
+  </h2>
+  <p
+    className="loading"
+  />
+</div>
+`;
