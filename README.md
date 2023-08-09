@@ -61,7 +61,6 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Math Magicians] <a name="about-project"></a>
 
-**[Math Magicians]** is a website
 
 ## 🛠 Built With <a name="built-with"></a>
 
