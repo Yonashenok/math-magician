@@ -163,7 +163,7 @@ You can deploy this project using:
 - Twitter: [@yonashenok](https://twitter.com/YonasHenok3)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/yonas-henok-996a26217)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- FUTURE FEATURES -->
 
