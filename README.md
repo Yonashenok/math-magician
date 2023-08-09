@@ -174,7 +174,7 @@ You can deploy this project using:
 - **[add test for project]**
 - **[add animation]**
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- CONTRIBUTING -->
 
