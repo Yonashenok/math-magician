@@ -201,7 +201,6 @@ I would like to thank my coding partners for shearing there knowledge and experi
 
 <!-- FAQ (optional) -->
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
